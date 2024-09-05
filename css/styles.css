@@ -1,0 +1,49 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    background-color: #ececb9;
+
+}
+
+h1{
+    text-align: center;
+}
+
+table{
+    text-align: center;
+}
+
+th{
+    background-color: rgb(24, 49, 28);
+    color: aliceblue;
+}
+
+td{
+    background-color: rgb(221, 255, 127);
+}
+
+.consulta_articulo, .agregar_articulo{
+    margin-left: 100px;
+}
+
+button{
+    border: none;
+    padding: 20px;
+    margin-left: 50px;
+    border-radius: 20px;
+    color: aliceblue;
+    background-color: black;
+    cursor: pointer;
+}
+
+input{
+    border: none;
+    padding: 10px;
+    border-radius: 10px;
+    
+}
+
+.input_articulo input{
+    margin: 20px;
+}
